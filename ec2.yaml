@@ -1,4 +1,4 @@
-# create a new ec 2 instance with a security group
+# create a new ec 2 instance with a security group blb blas
 Resources:
   MySecurityGroup:
     Type: AWS::EC2::SecurityGroup
